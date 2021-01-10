@@ -13,7 +13,7 @@ module.exports = async client => {
     client.user.setActivity(oyun[random], { type: "WATCHING" });
   }, 13000);
   client.user.setStatus("dnd");
-console.log("Friday Hazır Gweep")
+console.log("Yavuzhan.exe Hazır Çekiliş Botu")
   /*client.user.setActivity("a!yardım | a!davet | a!prefix ☣", { type: "WATCHING" });*/
 };
 
